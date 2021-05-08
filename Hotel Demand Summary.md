@@ -7,19 +7,19 @@
 > - An interesting fact is that the second country with the highest percentage of guests (**13%**) is Great Britain despite the distance
 > - Another interesting fact is that although Spain is very close, it is the country with the fourth percentage of guests (**9%**)
 
-![image_1.png](Images/Guests_per_country_reduced.png)
+![image_1.png](images/Guests_per_country_reduced.png)
 
 ## 2. How much do guests pay for a room per night?
 > - Most of the reservations **(76.79%)** came through Travel agents and Tour operators followed by Direct reservation to the Hotels.
 > - On average the Cost of the Daily rate is higher when reservations area made using a Global Distribution System (GDS) and we have the lower rates for Corporate clientes. 
 > -Travel Agencies have the second lowest rate.
 
-![image_1.png](Images/Reservation_by_distribution_channel.png)
+![image_1.png](images/Reservation_by_distribution_channel.png)
 
 ##  3. How does the price per night vary over the year?
 > - The summer months are the most expensive and the winter months are the most affordables
 
-![image_1.png](Images/ADR_month.png)
+![image_1.png](images/ADR_month.png)
 
 ## 4. What is the average price by room type?
 > - The room types represent the size and meal arrangements, even though they may not be the same for each Hotel and price varies depending demand. 
@@ -29,7 +29,7 @@
 >   - That has a registered country
 >   - More than 1000 per country
 
-![image_1.png](Images/Box_plot_room_prices.png)
+![image_1.png](images/Box_plot_room_prices.png)
 
 ## 5. Which is the busiest month?
 > - The busiest month for both Hotels is August 
@@ -37,7 +37,7 @@
 > - This plot was filtered by amount of reservations per Month
 >   - Only not canceled reservations were included
 
-![image_1.png](Images/Reserv_hotel_type.png)
+![image_1.png](images/Reserv_hotel_type.png)
 
 ## 6. How long do people stay at the hotels?
 > - The data was filtered by **City Hotel**, **Resort Hotel**, and a confirmed reservation.
@@ -47,19 +47,19 @@
 > - The **25.73 %** of guests stayed **3 nights** at a **City Hotel**, which is considered the biggest percentage
 > - The **22.73 %** of guests stayed **1 night** at a **Resort Hotel**, which is considered the biggest percentage
 
-![image_1.png](Images/Nights_at_hotel.png)
+![image_1.png](images/Nights_at_hotel.png)
 
 ## 7. How many bookings were canceled?
 > - City Hotels has the highest cancelation rate
 > - 37,04% of the total bookings were canceled
 
-![image_1.png](Images/Cancelation_situation.png)
+![image_1.png](images/Cancelation_situation.png)
 
 ## 8. Which month have the highest number of cancelations?
 > - August is the month with more cancelations **(11.85%)** and January is the month with less cancelations **(4.09%)**
 > - For city hotels there is not much variance between months For the Resort hotel it is highest cancelations in the summer and lowest during the winter.
 
-![image_1.png](Images/Cancelations_per_month_vs.png)
+![image_1.png](images/Cancelations_per_month_vs.png)
 
 ## 9. Bookings by market segment
 > - Adults without children = **110,054** Adults with 1 child = **5446** Adults with 2 children = **3772** Adults with 3 children = **111**.
@@ -69,7 +69,7 @@
 > - **47.30%** of bookings were made online, **20.29%** offline.
 > - The rest were made by groups, corporations, directly at the hotel or by airline packages
 
-![image_1.png](Images/Bookings_market_segment.png)
+![image_1.png](images/Bookings_market_segment.png)
 
 ## 10. Is there a correlation between Cancelations and Lead time?
 > - After analyzing the data we decided to separate it in two groups, the first one takes into account the lead time for reservations under or equal to 50 days and the second one over 50 days.
@@ -77,5 +77,5 @@
 > - For the lead time over 50 we found that the average of cancellation was **56.28%** and the r-value was **0.3919649481639411**
 > - We can observe that reservations with lead time over 50 days are twice as likely to be cancelled.
 
-![image_1.png](Images/lead_time_vs_cancelation_under_50.png)
-![image_1.png](Images/lead_time_vs_cancelation_over_50.png)
+![image_1.png](images/lead_time_vs_cancelation_under_50.png)
+![image_1.png](images/lead_time_vs_cancelation_over_50.png)

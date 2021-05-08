@@ -13,14 +13,16 @@ This data set contains booking information for a city hotel and a resort hotel, 
 
 # Research questions to answer
 
-* Where do the guests come from?
-* How much do guests pay for a room per night?
-* How does the price per night vary over the year?
-* Which are the most busy month?
-* How long do people stay at the hotels?
-* Bookings by market segment
-* How many bookings were canceled?
-* Which month have the highest number of cancelations?
+1. Where do the guests come from?
+2. How much do guests pay for a room per night?
+3. How does the price per night vary over the year?
+4. What is the average price by room type?
+5. Which is the busiest month?
+6. How long do people stay at the hotels?
+7. How many bookings were canceled?
+8. Which month have the highest number of cancelations?
+9. Bookings by market segment
+10. Is there a correlation between Cancelations and Lead time?
 
 # Datasets to be used
 https://www.kaggle.com/jessemostipak/hotel-booking-demand
